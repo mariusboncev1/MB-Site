@@ -158,10 +158,11 @@ hr {
     font-family: 'Righteous', cursive;
 }
 
-.project-image {
-    position: absolute;
+.image-project {
+    position: relative;
     height: 27px;
-    left: 630px;
+    bottom: -5px;
+    right: 5px;
 }
 
 .bottom-container {
@@ -182,7 +183,6 @@ hr {
     padding-bottom: 10px;
     
 }
-
 
 .copyright {
     color: #EAF6F6;
