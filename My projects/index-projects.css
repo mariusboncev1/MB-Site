@@ -1,16 +1,67 @@
 h1 {
     font-family: 'Lobster', cursive;   
-    color: ;
 }
 
-p {
+.quotation {
     font-style: italic;
     font-weight: 400;
 }
 
 .hr {
+    margin-bottom: 20px;
     background-color: #C7BCA1;
+    border-width: 4px;
 }
 
 /* QR code component */
 
+.perfume-image {
+    border: 5px solid #2AAFA9;
+    padding: 1%;
+    height: 250px;
+}
+
+.perfume-link {
+    color: #2AAFA9;
+    font-size: 18px;
+}
+
+.perfume-text {
+    font-family: "Outfit";
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.nft-image {
+    border: 5px solid #2AAFA9;
+    padding: 1%;
+    height: 300px;
+}
+
+.nft-link {
+    color: #2AAFA9;
+    font-size: 18px;
+}
+
+.nft-text {
+    font-family: "Outfit";
+    font-size: 23px;
+    font-weight: 700;
+}
+
+.qr-image {
+    border: 5px solid #2AAFA9;
+    padding: 1%;
+    height: 300px;
+}
+
+.qr-link {
+    color: #2AAFA9;
+    font-size: 18px;
+}
+
+.qr-text {
+    font-family: "Outfit";
+    font-size: 23px;
+    font-weight: 700;
+}
